@@ -7,10 +7,13 @@ Read the INSTRUCTIONS.docx to checkout or modify this game. There are a lot of u
 C#, .NET Framework, Unity2D, Raspberry Pi, and Heartbeat Sensor. 
 
 # Demonstration:
-Check out our code in the locations listed below:
+*Check out our code in the locations listed below:*
 
 **Modified_Survival_Shooter_Game/Assets/_Complete-Game/Scripts/Player/HeartBPM.cs**
+
 **Modified_Survival_Shooter_Game/Assets/_Complete-Game/Scripts/Player/PlayerMovement.cs**
+
+**Modified_Survival_Shooter_Game/Assets/_Complete-Game/Scripts/Managers/EnemyManager.cs**
 
 
 

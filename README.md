@@ -5,3 +5,10 @@ Read the INSTRUCTIONS.docx to checkout or modify this game. There are a lot of u
 
 # Technologies Used:
 C#, .NET Framework, Unity2D, Raspberry Pi, and Heartbeat Sensor. 
+
+# Demonstration:
+Check out our code in the locations listed below:
+
+**Modified_Survival_Shooter_Game/Assets/_Complete-Game/Scripts/Player/HeartBPM**
+
+

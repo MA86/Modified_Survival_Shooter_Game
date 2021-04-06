@@ -9,6 +9,8 @@ C#, .NET Framework, Unity2D, Raspberry Pi, and Heartbeat Sensor.
 # Demonstration:
 Check out our code in the locations listed below:
 
-**Modified_Survival_Shooter_Game/Assets/_Complete-Game/Scripts/Player/HeartBPM**
+**Modified_Survival_Shooter_Game/Assets/_Complete-Game/Scripts/Player/HeartBPM.cs**
+**Modified_Survival_Shooter_Game/Assets/_Complete-Game/Scripts/Player/PlayerMovement.cs**
+
 
 
